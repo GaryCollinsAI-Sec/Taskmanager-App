@@ -1,5 +1,3 @@
-# Taskmanager-App
-
 # Task Manager App 📝
 
 A streamlined, cross-platform mobile task management application built with **React Native** and **TypeScript**. Designed for efficiency, performance, and clean code architecture.
