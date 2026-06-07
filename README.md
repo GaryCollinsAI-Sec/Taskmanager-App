@@ -18,4 +18,7 @@ A streamlined, cross-platform mobile task management application built with **Re
 
 ## Screenshots
 
-
+<p align="center">
+  <img height="400" alt="1000002769" src="https://github.com/user-attachments/assets/a3210f92-8d52-484a-9922-24a045c64b2f" />
+  <img height="400" alt="1000002771" src="https://github.com/user-attachments/assets/77dbface-1a5b-4a20-8d15-35ca9733bc01" />
+</p>
